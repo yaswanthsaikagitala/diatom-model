@@ -1,0 +1,23 @@
+# Ignore datasets
+dataset/
+UDE Diatoms*/
+
+# Ignore large files
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pkl
+*.keras
+*.h5
+
+# Env
+venv/
