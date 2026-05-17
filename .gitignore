@@ -21,3 +21,5 @@ __pycache__/
 
 # Env
 venv/
+
+node_modules/

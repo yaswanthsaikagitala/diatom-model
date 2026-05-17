@@ -1,0 +1,7 @@
+__pycache__/
+*.ipynb
+dataset/
+data/
+*.png
+*.jpg
+.git
